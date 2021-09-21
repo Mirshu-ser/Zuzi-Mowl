@@ -14,7 +14,7 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="AMEERKALLUMTHODI" /* Copyright (C) 2020 Yusuf Usta.
+<a href="#"><img title="MIRSHU SER" /* Copyright (C) 2020 Yusuf Usta.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 WhatsAsena - Yusuf Usta
@@ -260,7 +260,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                             if (error.message.includes('URL')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Only Absolutely URLs Supported_' +
                                         '\n*Nedeni:* _Medya araçlarının (xmedia, sticker..) LOG numarasında kullanılması._' +
                                         '\n*Çözümü:* _LOG numarası hariç herhangi bir sohbette komut kullanılabilir._'
@@ -270,7 +270,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('SSL')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpG88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _SQL Database Error_' +
                                         '\n*Nedeni:* _Database\'in bozulması._ ' +
                                         '\n*Solution:* _Bilinen herhangi bir çözümü yoktur. Yeniden kurmayı deneyebilirsiniz._'
@@ -280,7 +280,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('split')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88hUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Split of Undefined_' +
                                         '\n*Nedeni:* _Grup adminlerinin kullanabildiği komutların ara sıra split fonksiyonunu görememesi._ ' +
                                         '\n*Çözümü:* _Restart atmanız yeterli olacaktır._'
@@ -290,7 +290,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('Ookla')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa8rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Ookla Server Connection_' +
                                         '\n*Nedeni:* _Speedtest verilerinin sunucuya iletilememesi._' +
                                         '\n*Çözümü:* _Bir kez daha kullanırsanız sorun çözülecektir._'
@@ -300,7 +300,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('params')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88hUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Requested Audio Params_' +
                                         '\n*Nedeni:* _TTS komutunun latin alfabesi dışında kullanılması._' +
                                         '\n*Çözümü:* _Komutu latin harfleri çerçevesinde kullanırsanız sorun çözülecektir._'
@@ -310,7 +310,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('unlink')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/nnel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _No Such File or Directory_' +
                                         '\n*Nedeni:* _Pluginin yanlış kodlanması._' +
                                         '\n*Çözümü:* _Lütfen plugininin kodlarını kontrol edin._'
@@ -320,7 +320,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('404')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/chnel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Error 404 HTTPS_' +
                                         '\n*Nedeni:* _Heroku plugini altındaki komutların kullanılması sonucu sunucu ile iletişime geçilememesi._' +
                                         '\n*Çözümü:* _Biraz bekleyip tekrar deneyin. Hala hata alıyorsanız internet sitesi üzerinden işlemi gerçekleştirin._'
@@ -330,7 +330,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('reply.delete')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youe.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Reply Delete Function_' +
                                         '\n*Nedeni:* _IMG yada Wiki komutlarının kullanılması._' +
                                         '\n*Çözümü:* _Bu hatanın çözümü yoktur. Önemli bir hata değildir._'
@@ -340,7 +340,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('load.delete')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88UFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Reply Delete Function_' +
                                         '\n*Nedeni:* _IMG yada Wiki komutlarının kullanılması._' +
                                         '\n*Çözümü:* _Bu hatanın çözümü yoktur. Önemli bir hata değildir._'
@@ -350,7 +350,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('400')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/c/UCpG88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Bailyes Action Error_ ' +
                                         '\n*Nedeni:* _Tam nedeni bilinmiyor. Birden fazla seçenek bu hatayı tetiklemiş olabilir._' +
                                         '\n*Çözümü:* _Bir kez daha kullanırsanız düzelebilir. Hata devam ediyorsa restart atmayı deneyebilirsiniz._'
@@ -360,7 +360,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('decode')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channUCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Cannot Decode Text or Media_' +
                                         '\n*Nedeni:* _Pluginin yanlış kullanımı._' +
                                         '\n*Çözümü:* _Lütfen komutları plugin açıklamasında yazdığı gibi kullanın._'
@@ -370,7 +370,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('unescaped')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/chUCpGa88rUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Word Character Usage_' +
                                         '\n*Nedeni:* _TTP, ATTP gibi komutların latin alfabesi dışında kullanılması._' +
                                         '\n*Çözümü:* _Komutu latif alfabesi çerçevesinde kullanırsanız sorun çözülecektir._'
@@ -380,7 +380,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('conversation')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88UFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Deleting Plugin_' +
                                         '\n*Nedeni:* _Silinmek istenen plugin isminin yanlış girilmesi._' +
                                         '\n*Çözümü:* _Lütfen silmek istediğiniz pluginin başına_ *__* _koymadan deneyin. Hala hata alıyorsanız ismin sonundaki_ ```?(.*) / $``` _gibi ifadeleri eksiksiz girin._'
@@ -390,7 +390,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('conversation')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UC88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Main Error:* _Deleting Plugin_' +
                                         '\n*Reason:* _Entering incorrectly the name of the plugin wanted to be deleted._' +
                                         '\n*Solution:* _Please try without adding_ *__* _to the plugin you want to delete. If you still get an error, try to add like_ ```?(.*) / $``` _to the end of the name._ '
@@ -400,7 +400,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('split')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/chan/UCGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Main Error:* _Split of Undefined_' +
                                         '\n*Reason:* _Commands that can be used by group admins occasionally dont see the split function._ ' +
                                         '\n*Solution:* _Restarting will be enough._'
@@ -410,7 +410,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('SSL')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.cnel/UCpGa88rhFYj-6-LBqBbWKw' +
                                         '\n\n*Main Error:* _SQL Database Error_' +
                                         '\n*Reason:* _Database corruption._ ' +
                                         '\n*Solution:* _There is no known solution. You can try reinstalling it._'
@@ -420,7 +420,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('Ookla')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channepGa8rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Main Error:* _Ookla Server Connection_' +
                                         '\n*Reason:* _Speedtest data cannot be transmitted to the server._' +
                                         '\n*Solution:* _If you use it one more time the problem will be solved._'
@@ -440,7 +440,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                 else if (error.message.includes('unlink')) {
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Error Resolved``` ==========' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.ybe.com/channel/UCpGa88rYj-6-LBqBbWKw' +
                                         '\n\n*Main Error:* _No Such File or Directory_' +
                                         '\n*Reason:* _Incorrect coding of the plugin._' +
                                         '\n*Solution:* _Please check the your plugin codes._'
@@ -491,7 +491,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ 𝗭𝗨𝗭𝗜 𝗠𝗢𝗪𝗟 _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
                                         '\n\n*Main Error:* _Cannot Decode Text or Media_' +
-                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
+                                        '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.cchannel/UCpGa88rhYj-6-LBqBbWKw' +
                                         '\n*Reason:* _Incorrect use of the plug._' +
                                         '\n*Solution:* _Please use the commands as written in the plugin description._'
                                         , MessageType.text
@@ -533,11 +533,11 @@ whatsAsena();
 ="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Mirshu-ser"><img title="Author" src="https://img.shields.io/badge/Author-Mirshu-ser/Zuzi-Mowl?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumthodi</a> to make it public
+Project created by <a href="https://github.com/Mirshu-ser">Mirshu-ser</a> to make it public
     <br>
        | © |
         Reserved |
@@ -558,9 +558,9 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumth
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=dark&locale=en" alt="ameer-kallumthodi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mirshu-ser&show_icons=true&theme=dark&locale=en" alt="Mirshu-ser" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=dark" alt="ameer-kallumthodi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mirshu-ser&theme=dark" alt="Mirshu-ser" /></p>
 </p>
 
 
@@ -570,7 +570,7 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumth
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/FsDjVu526ce4wgMpAtYwyf" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
@@ -579,7 +579,7 @@ Click WA logo to Join Support Group 👇
 Click Pikachu logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
@@ -589,7 +589,7 @@ Click Pikachu logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Mirshu-ser/Zuzi-Mowl.git)
      </div>
 <br>
 <br >
@@ -609,8 +609,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/Mirshu-ser/Zuzi-Mowl
+$ cd Zuzi-Mowl
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -619,8 +619,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/Mirshu-ser/Zuzi-Mowl
+$ cd Zuzi-Mowl
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -633,16 +633,16 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Pikachu executives do not accept responsibility.
+Absolutely,Zuzi-Mowl executives do not accept responsibility.
 By establishing the Pikachu, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![Mirshu-ser](https://github.com/Mirshu-ser.png?size=100)](https://github.com/Mirshu-ser) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
-[Ameer Suhail](https://github.com/ameer-kallumthodi) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Ameer Suhail](https://github.com/Mirshu-ser) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
     </details>
