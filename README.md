@@ -579,7 +579,7 @@ Click WA logo to Join Support Group 👇
 Click Pikachu logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkbH6" target="blank"><img align="center" src="Zuzimowl.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
@@ -642,7 +642,7 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
     
   [![Mirshu-ser](https://github.com/Mirshu-ser.png?size=100)](https://github.com/Mirshu-ser) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
-[Ameer Suhail](https://github.com/Mirshu-ser) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Mirshu ser(https://github.com/Mirshu-ser) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
     </details>
